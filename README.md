@@ -1,7 +1,7 @@
 # Мои заметки по Git/GitHub
 
 ## Соглашения о коммитах
-(Соглашения о коммитах)[https://www.conventionalcommits.org/en/v1.0.0/]
+[Соглашения о коммитах](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Статусы файлов в Git (mermaid-схема)
 
