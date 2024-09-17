@@ -1,1 +1,1 @@
-#my_git
+# Мои заметки по Git/GitHub
